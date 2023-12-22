@@ -15,6 +15,4 @@ Submissions are evaluated based on classification accuracy.
 
 Submit a CSV file with `PassengerId` and predicted `Transported` (True or False).
 
-## Acknowledgments
 
-Photos by Joel Filipe, Richard Gatley, and ActionVance on Unsplash.
