@@ -2,6 +2,8 @@
 
 Welcome to the Spaceship Titanic Dimensional Rescue Challenge! Your mission is to predict which passengers were transported to an alternate dimension during a collision with a spacetime anomaly.
 
+[Spaceship Titanic - Kaggle Competition](https://www.kaggle.com/competitions/spaceship-titanic)
+
 ## Dataset
 
 - **Files:** `train.csv`, `test.csv`, `sample_submission.csv`
